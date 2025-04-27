@@ -2,10 +2,10 @@ package br.com.lojinha.pojo;
 
 public class Produto {
     private String nome;
-    public String marca;
+    private String marca;
     private double valor;
-    public String tamanho;
-    public String itensInclusos;
+    private String tamanho;
+    private String itensInclusos;
 
     public double getValor () {
        return this.valor;
@@ -19,5 +19,24 @@ public class Produto {
     public void setNome(String novoNome) {
         this.nome = novoNome;
     }
+    public String getMarca(){
+        return this.marca;
+    }
+    public void setMarca(String novaMarca){
+        this.marca = novaMarca;
+    }
+    public String getTamanho(){
+        return this.tamanho;
+    }
+    public void setTamanho(String novoTamanho){
+        this.tamanho = novoTamanho;
+    }
 
+    public String getItensInclusos() {
+        return itensInclusos;
+    }
+
+    public void setItensInclusos(String novositensInclusos) {
+        this.itensInclusos = novositensInclusos;
+    }
 }
