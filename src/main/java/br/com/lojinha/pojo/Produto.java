@@ -10,9 +10,14 @@ public class Produto {
     public double getValor () {
        return this.valor;
     }
-    public void setValor(double novoValor) {
+    public void setValor(double novoValor) throws IllegalAccessException {
+        if (novoValor > 0) {
         this.valor = novoValor;
+    } else {
+            throw new IllegalAccessException("Valores devem ser maiores que 0");
+        }
     }
+
     public String getNome(){
         return this.nome;
     }
