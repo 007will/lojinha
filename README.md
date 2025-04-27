@@ -1,41 +1,87 @@
-# README
+Lojinha 🛒
+<div align="center"> <img src="./public/images/lojinha-banner.png" alt="Banner da Lojinha" /> </div> <br />
 
-## Português 🇧🇷
+📜 Sobre o projeto | About the project
+Lojinha é uma aplicação web que simula uma loja virtual.
+O objetivo é praticar conceitos de desenvolvimento Web como:
 
-**Bem-vindo à Lojinha!**
+Frontend (HTML, CSS, JavaScript)
 
-Este diretório `public` contém os arquivos públicos do projeto **Lojinha**.  
-Aqui estão armazenados arquivos como imagens, ícones, e outros recursos que podem ser acessados diretamente pelo navegador.
+Backend (se aplicável)
 
-### Sobre o projeto
-O projeto **Lojinha** é uma aplicação web desenvolvida para simular uma pequena loja virtual. O objetivo é praticar conceitos de desenvolvimento web, incluindo frontend, backend e integração de dados.
+Integração de dados
 
-### Conteúdo da pasta `public`
-- **Imagens**: Fotos de produtos, banners, logotipos etc.
-- **Ícones**: Recursos gráficos para melhorar a navegação e aparência da loja.
-- **Outros arquivos estáticos**: Arquivos que não precisam de processamento pelo servidor.
+Estruturação moderna de projetos
 
-### Como contribuir
-Se quiser contribuir, fique à vontade para fazer um fork do repositório, criar uma branch e abrir um pull request!
+Lojinha is a web application simulating an online store.
+Its goal is to practice web development concepts such as:
 
----
+Frontend (HTML, CSS, JavaScript)
 
-## English 🇺🇸
+Backend (if applicable)
 
-**Welcome to Lojinha!**
+Data integration
 
-This `public` directory contains the public files for the **Lojinha** project.  
-It holds files like images, icons, and other assets that can be directly accessed by the browser.
+Modern project structuring
 
-### About the project
-The **Lojinha** project is a web application designed to simulate a small online store. Its purpose is to practice web development concepts, including frontend, backend, and data integration.
+🚀 Demonstração | Demo
+Em breve: versão hospedada!
 
-### Contents of the `public` folder
-- **Images**: Product photos, banners, logos, etc.
-- **Icons**: Graphic assets to enhance store navigation and appearance.
-- **Other static files**: Files that don't require server-side processing.
+(Soon: hosted version!)
 
-### How to contribute
-Feel free to fork the repository, create a branch, and open a pull request if you'd like to contribute!
+📸 Preview
+<div align="center"> <img src="./public/images/preview.png" alt="Preview da Lojinha" /> </div>
+(Troque pela imagem real do projeto depois!)
 
----
+📂 Estrutura do Projeto | Project Structure
+bash
+Copiar
+Editar
+lojinha/
+├── public/       # Arquivos públicos (imagens, ícones, etc.)
+│    └── images/
+│         ├── lojinha-banner.png
+│         └── preview.png
+├── src/          # Código-fonte principal
+├── README.md     # Documentação do projeto
+├── package.json  # (se aplicável)
+└── ...
+🛤️ Roadmap
+ Estruturar a pasta public
+
+ Criar README bilíngue e visual
+
+ Desenvolver página inicial da loja
+
+ Implementar carrinho de compras
+
+ Integração com backend
+
+ Deploy online
+
+🤝 Como Contribuir | How to Contribute
+Faça um fork do projeto
+
+Crie uma branch (git checkout -b minha-feature)
+
+Faça suas alterações e commit (git commit -m 'feat: minha nova feature')
+
+Faça push para a branch (git push origin minha-feature)
+
+Abra um Pull Request
+
+📄 Licença | License
+Este projeto está sob a licença MIT — veja o arquivo LICENSE para detalhes.
+
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+✨ Autor | Author
+Desenvolvido com 💙 por José Willams Barbosa da Rocha
+
+🛍️🚀
+📢 Coisas que você precisa fazer para completar:
+Salvar o banner (lojinha-banner.png) dentro de public/images/.
+
+Quando tiver, salvar também uma print do projeto em preview.png no mesmo lugar.
+
+Atualizar o link de Deploy quando o projeto for publicado!
