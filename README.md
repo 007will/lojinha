@@ -2,7 +2,7 @@
 # Lojinha 🛒
 
 <div align="center">
-  <img src="./lojinha-banner.png" alt="Banner da Lojinha" />
+  <img src="./public/lojinha-banner.png" alt="Banner da Lojinha" />
 </div>
 
 <br />
@@ -47,7 +47,7 @@ Its goal is to practice web development concepts such as:
 ## 📸 Preview
 
 <div align="center">
-  <img src="./public/refs/heads/main/lojinha-banner.png" alt="Preview da Lojinha" />
+  <img src="./public/lojinha-banner.png" alt="Preview da Lojinha" />
 </div>
 
 > *(Troque pela imagem real do projeto depois!)*
