@@ -19,8 +19,8 @@
 **Lojinha** é uma aplicação web que simula uma loja virtual.  
 O objetivo é praticar conceitos de desenvolvimento Web como:
 
-- Frontend (HTML, CSS, JavaScript)
-- Backend (se aplicável)
+- Frontend (HTML, CSS, JavaScript, Java)
+- Backend (planejando)
 - Integração de dados
 - Estruturação moderna de projetos
 
@@ -29,8 +29,8 @@ O objetivo é praticar conceitos de desenvolvimento Web como:
 **Lojinha** is a web application simulating an online store.  
 Its goal is to practice web development concepts such as:
 
-- Frontend (HTML, CSS, JavaScript)
-- Backend (if applicable)
+- Frontend (HTML, CSS, JavaScript, Java)
+- Backend (planning)
 - Data integration
 - Modern project structuring
 
@@ -101,7 +101,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## ✨ Autor | Author
 
-Desenvolvido com 💙 por [José Willams Barbosa da Rocha](https://github.com/007will)
+Desenvolvido com 💙 por [José Willams Rocha](https://github.com/007will)
 
 ---
 
