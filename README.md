@@ -1,5 +1,5 @@
 Lojinha 🛒
-<div align="center"> <img src="./public/images/lojinha-banner.png" alt="Banner da Lojinha" /> </div> <br />
+<div align="center"> <img src="[./public/images/lojinha-banner.png](https://sdmntpreastus2.oaiusercontent.com/files/00000000-a440-61f6-b968-1eb67376fd45/raw?se=2025-04-27T03%3A14%3A12Z&sp=r&sv=2024-08-04&sr=b&scid=1400aa90-2cef-54ee-98ae-4f9a23e2ba7e&skoid=2f36945c-3adc-4614-ac2b-eced8f672c58&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-27T01%3A41%3A46Z&ske=2025-04-28T01%3A41%3A46Z&sks=b&skv=2024-08-04&sig=DkTVtMDhkkm/BP%2BiP2%2BAdSXuMQEUs/7lqzfLXkR5j7Q%3D)" alt="Banner da Lojinha" /> </div> <br />
 
 📜 Sobre o projeto | About the project
 Lojinha é uma aplicação web que simula uma loja virtual.
@@ -30,7 +30,7 @@ Em breve: versão hospedada!
 (Soon: hosted version!)
 
 📸 Preview
-<div align="center"> <img src="./public/images/preview.png" alt="Preview da Lojinha" /> </div>
+<div align="center"> <img src="[./public/images/preview.png](https://sdmntpreastus2.oaiusercontent.com/files/00000000-a440-61f6-b968-1eb67376fd45/raw?se=2025-04-27T03%3A14%3A12Z&sp=r&sv=2024-08-04&sr=b&scid=1400aa90-2cef-54ee-98ae-4f9a23e2ba7e&skoid=2f36945c-3adc-4614-ac2b-eced8f672c58&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-27T01%3A41%3A46Z&ske=2025-04-28T01%3A41%3A46Z&sks=b&skv=2024-08-04&sig=DkTVtMDhkkm/BP%2BiP2%2BAdSXuMQEUs/7lqzfLXkR5j7Q%3D)" alt="Preview da Lojinha" /> </div>
 (Troque pela imagem real do projeto depois!)
 
 📂 Estrutura do Projeto | Project Structure
