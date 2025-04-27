@@ -47,7 +47,7 @@ Its goal is to practice web development concepts such as:
 ## 📸 Preview
 
 <div align="center">
-  <img src=".lojinha/blob/main/src/main/java/br/com/lojinha/imagem/lojinha-banner.png.png" alt="Preview da Lojinha" />
+  <img src="./src/main/java/br/com/lojinha/imagem/lojinha-banner.png.png" alt="Preview da Lojinha" />
 </div>
 
 > *(Troque pela imagem real do projeto depois!)*
