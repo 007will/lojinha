@@ -2,7 +2,7 @@
 # Lojinha 🛒
 
 <div align="center">
-  <img src="./lojinha/blob/main/src/main/java/br/com/lojinha/imagem/lojinha-banner.png.png" alt="Banner da Lojinha" />
+  <img src="./src/main/java/br/com/lojinha/imagem/lojinha-banner.png.png" alt="Banner da Lojinha" />
 </div>
 
 <br />
