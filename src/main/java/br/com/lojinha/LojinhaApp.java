@@ -18,5 +18,6 @@ public class LojinhaApp {
         System.out.println(meuProduto.getTamanho());
         System.out.println(meuProduto.getItensInclusos());
 
+
     }
 }
